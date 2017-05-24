@@ -13,7 +13,6 @@ body {
   color: #222222;
   line-height: 24px;
   margin: 0;
-  border-top: 7px solid {{ site.data.theme.highlight_color }};
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -86,7 +85,7 @@ ul.posts li {
 
 ul.posts span {
   font-family: 'Lucida Console', 'Andale Mono', monospace;
-  color: #aaa;
+  color: #000000;
   padding-right: 5px;
   font-size:14px;
 }
