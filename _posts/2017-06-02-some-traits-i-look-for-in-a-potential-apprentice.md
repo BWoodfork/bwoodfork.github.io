@@ -6,7 +6,7 @@ categories:
 published: true
 ---
 
-> Before we dig into this topic. I want to make it clear that these are my personal views on what I look for when hiring an apprentice or reaching out to a potential candidate. These views may not reflect those of every employee at the company (8th Light). As an aside, I use the term "Software Crafter" often as it is the term my company uses to refer to its developers. Once an apprentice finishes their apprenticeship, they are considered a :Software Crafter".
+> Before we dig into this topic. I want to make it clear that these are my personal views on what I look for when hiring an apprentice or reaching out to a potential candidate. These views may not reflect those of every employee at the company (8th Light). As an aside, I use the term "Software Crafter" often as it is the term my company uses to refer to its developers. Once an apprentice finishes their apprenticeship, they are considered a "Software Crafter".
 
 At 8th light, we have an apprenticeship program whereas we hire both experienced and inexperienced software developers. Throughout their apprenticeship, developers are taught how to write well crafted, tested & reliable code. They are also taught the essentials of being a consultant for our clients.
 
