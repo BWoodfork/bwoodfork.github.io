@@ -88,6 +88,7 @@ fieldset { border: medium none !important; margin: 0 0 10px; min-width: 100%; pa
 :-moz-placeholder { color: #888; }
 ::-moz-placeholder { color: #888; }
 :-ms-input-placeholder { color: #888; }
+#byron-photo { border-radius: 50%; width: 20%; margin: 0 0 2% 40%; }
 html, body { height: 100%; }
 body { background: #fefefe; color: #424242; font-family: "Open Sans", arial, sans-serif; font-size: 18px; }
 h1, h2, h3, h4, h5, h6 { margin-bottom: 20px; text-transform: none; }

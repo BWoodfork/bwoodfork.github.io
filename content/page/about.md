@@ -1,14 +1,12 @@
 +++
 title = "About"
 date = 2015-04-03T02:13:50Z
-author = "My Name"
-description = "Things about me."
+author = "Byron Woodfork"
+description = ""
 +++
 
-## About
+<div>
+<img id="byron-photo" src="resources/images/../../../Byron-Woodfork.jpg" alt="Byron Woodfork's Picture">
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
-
-## School
-
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+Byron is a lead software engineer who's passionate about forming awesome teams, writing quality code, public speaking and mentoring. Byron has always held a strong passion for tinkering with technology and that led him down his chosen career path. As a team lead, Byron enjoys helping mentor developers of all levels, working towards improving code quality, team processes and company culture.
