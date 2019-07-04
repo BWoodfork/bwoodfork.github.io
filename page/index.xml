@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    <link>https://bwoodfork.github.io/page/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Byron Woodfork</copyright>
+    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://bwoodfork.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bwoodfork.github.io/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/page/about/</guid>
+      <description>Byron is a lead software engineer who&amp;rsquo;s passionate about forming awesome teams, writing quality code, public speaking and mentoring. Byron has always held a strong passion for tinkering with technology and that led him down his chosen career path. As a team lead, Byron enjoys helping mentor developers of all levels, working towards improving code quality, team processes and company culture.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bwoodfork.github.io/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/page/contact/</guid>
+      <description>Contact Me For professional means or just to chat         Submit  Designed by Colorlib
+  </description>
+    </item>
+    
+  </channel>
+</rss>

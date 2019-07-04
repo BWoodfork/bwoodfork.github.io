@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://bwoodfork.github.io/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Byron Woodfork</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://bwoodfork.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A reflection of my accomplishments in 2018</title>
+      <link>https://bwoodfork.github.io/2019/02/23/a-reflection-of-my-accomplishments-in-2018/</link>
+      <pubDate>Sat, 23 Feb 2019 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/2019/02/23/a-reflection-of-my-accomplishments-in-2018/</guid>
+      <description>I wanted to blog a bit about what some of my accomplishments and learnings were in 2018. So here we go!
+Took a break from speaking at conferences
+I’d decided to take a break from speaking at multiple conferences in 2018. I wanted to focus more on growing my professional skills, mentoring and starting my meetup. All of which were things that I was able to accomplish. I did miss speaking but it was for the better that I took that time off.</description>
+    </item>
+    
+    <item>
+      <title>Some traits I look for in a potential apprentice</title>
+      <link>https://bwoodfork.github.io/2017/06/02/some-traits-i-look-for-in-an-apprentice/</link>
+      <pubDate>Fri, 02 Jun 2017 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/2017/06/02/some-traits-i-look-for-in-an-apprentice/</guid>
+      <description>Before we dig into this topic. I want to make it clear that these are my personal views on what I look for when hiring an apprentice or reaching out to a potential candidate. These views may not reflect those of every employee at the company (8th Light). As an aside, I use the term &amp;ldquo;Software Crafter&amp;rdquo; often as it is the term my company uses to refer to its developers.</description>
+    </item>
+    
+  </channel>
+</rss>

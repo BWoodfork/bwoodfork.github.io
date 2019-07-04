@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://bwoodfork.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Byron Woodfork</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://bwoodfork.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A reflection of my accomplishments in 2018</title>
+      <link>https://bwoodfork.github.io/2019/02/23/a-reflection-of-my-accomplishments-in-2018/</link>
+      <pubDate>Sat, 23 Feb 2019 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/2019/02/23/a-reflection-of-my-accomplishments-in-2018/</guid>
+      <description>I wanted to blog a bit about what some of my accomplishments and learnings were in 2018. So here we go!
+Took a break from speaking at conferences
+I’d decided to take a break from speaking at multiple conferences in 2018. I wanted to focus more on growing my professional skills, mentoring and starting my meetup. All of which were things that I was able to accomplish. I did miss speaking but it was for the better that I took that time off.</description>
+    </item>
+    
+    <item>
+      <title>Mid-Career Survival Tips for POC</title>
+      <link>https://bwoodfork.github.io/talks/mid-career-survival-tips-for-people-of-color-in-tech/</link>
+      <pubDate>Sun, 18 Nov 2018 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/talks/mid-career-survival-tips-for-people-of-color-in-tech/</guid>
+      <description>Abstract Figuring out what it is you want to do or what sort of company you want to work for in the middle of your career is a tough task. Juggling that with the obstacles that we face as people of color in tech can make things seem pretty overwhelming. This talk is directed to aid those in the middle of their careers figure out a path forward through aligning their values with their company, finding mentorship and getting paid what they&amp;rsquo;re worth.</description>
+    </item>
+    
+    <item>
+      <title>The Truth About Mentoring Minorities</title>
+      <link>https://bwoodfork.github.io/talks/the-truth-about-mentoring-minorities/</link>
+      <pubDate>Sun, 18 Nov 2018 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/talks/the-truth-about-mentoring-minorities/</guid>
+      <description>Video  Abstract One of the most effective ways to battle our industry&amp;rsquo;s lack of inclusion, diversity, and job retention is developing quality mentors to help aid minorities throughout their careers. In the tech industry, we currently lack the ability to produce mentors who are able to effectively teach and connect with their minority protégés. It&amp;rsquo;s because of this that minorities are feeling excluded at work and are unable to climb up the corporate ladder at the same pace as their non-minority protégés.</description>
+    </item>
+    
+    <item>
+      <title>Some traits I look for in a potential apprentice</title>
+      <link>https://bwoodfork.github.io/2017/06/02/some-traits-i-look-for-in-an-apprentice/</link>
+      <pubDate>Fri, 02 Jun 2017 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/2017/06/02/some-traits-i-look-for-in-an-apprentice/</guid>
+      <description>Before we dig into this topic. I want to make it clear that these are my personal views on what I look for when hiring an apprentice or reaching out to a potential candidate. These views may not reflect those of every employee at the company (8th Light). As an aside, I use the term &amp;ldquo;Software Crafter&amp;rdquo; often as it is the term my company uses to refer to its developers.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bwoodfork.github.io/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/page/about/</guid>
+      <description>Byron is a lead software engineer who&amp;rsquo;s passionate about forming awesome teams, writing quality code, public speaking and mentoring. Byron has always held a strong passion for tinkering with technology and that led him down his chosen career path. As a team lead, Byron enjoys helping mentor developers of all levels, working towards improving code quality, team processes and company culture.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bwoodfork.github.io/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/page/contact/</guid>
+      <description>Contact Me For professional means or just to chat         Submit  Designed by Colorlib
+  </description>
+    </item>
+    
+    <item>
+      <title>Talk Panel: Growing the clojure community</title>
+      <link>https://bwoodfork.github.io/talks/growing-the-clojure-community/</link>
+      <pubDate>Sat, 01 Jan 2000 02:13:50 +0000</pubDate>
+      
+      <guid>https://bwoodfork.github.io/talks/growing-the-clojure-community/</guid>
+      <description> Video  Abstract Let’s come together and discuss how we can attract more people to programming in general and Clojure specifically. Learn strategies that you can use to build the Clojure in your backyard and beyond.
+Where this talk was given  Opening keynote for SelfConference  </description>
+    </item>
+    
+  </channel>
+</rss>
