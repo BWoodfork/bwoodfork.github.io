@@ -290,6 +290,17 @@ table {
     text-transform: uppercase;
 }
 
+.new-post-page-title {
+    font-size: 52px;
+    font-weight: 700;
+    margin: 15px 0;
+    text-align: center;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    display: inline;
+}
+
 .post-title,
 .page-title {
     font-size: 52px;
